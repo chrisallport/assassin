@@ -23,17 +23,9 @@ end
 gem 'jquery-rails'
 gem 'rspec-rails'
 
-# To use ActiveModel has_secure_password
-# gem 'bcrypt-ruby', '~> 3.0.0'
+gem 'devise', '~>2.2.4'
 
-# To use Jbuilder templates for JSON
-# gem 'jbuilder'
-
-# Use unicorn as the app server
-# gem 'unicorn'
-
-# Deploy with Capistrano
-# gem 'capistrano'
-
-# To use debugger
-# gem 'debugger'
+# the following three gems are to install twitter bootstrap
+gem "therubyracer", '~>0.11.4'
+gem "less-rails", '~>2.3.3'
+gem "twitter-bootstrap-rails", '~>2.2.6'
