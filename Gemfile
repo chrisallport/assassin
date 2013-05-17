@@ -24,6 +24,7 @@ gem 'jquery-rails'
 gem 'rspec-rails'
 
 gem 'devise', '~>2.2.4'
+gem 'cancan', '~>1.6.10'
 
 # the following three gems are to install twitter bootstrap
 gem "therubyracer", '~>0.11.4'
